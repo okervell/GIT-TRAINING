@@ -8,4 +8,5 @@ projet va aussi
 devoir déter sous peu. Un systè de versioning va devenir plus qu'important.
 L'objectif principal est de mettre en place et gér les premiers énements de ce
 dét git.
+Le site est disponible à'adresse http://www.resanet.com/resaroutee/
 
