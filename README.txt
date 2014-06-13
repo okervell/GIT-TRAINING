@@ -10,3 +10,4 @@ L'objectif principal est de mettre en place et gér les premiers énements de ce
 dét git.
 Les tâes techniques àffectuer sont dans le 
 fichier TODO.txt
+Le site est disponible à'adresse http://www.resanet.com/resaroutee/
